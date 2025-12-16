@@ -1,2 +1,3 @@
 tekst jeden
-tekst zdalny
+tekst zdalny 
+tekst trzeci zdalny
