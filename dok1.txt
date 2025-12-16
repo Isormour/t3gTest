@@ -1,3 +1,5 @@
 tekst jeden
+tekst zdalny
+tekst trzeci
 tekst zdalny 
 tekst trzeci zdalny
